@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> Project is deployed [here](https://video-tool-bemaster-do6zf1433-yxd99.vercel.app/)
+> Project is deployed [here](https://video-tool-bemaster.vercel.app)
 > 
 # Vue 3 + TypeScript + Vite
 
